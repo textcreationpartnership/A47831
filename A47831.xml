@@ -120,9 +120,12 @@
          <div type="frontispiece">
             <pb facs="tcp:57300:1"/>
             <pb facs="tcp:57300:1"/>
-            <figure>
-               <head>TITUS OATES. D. D.</head>
-            </figure>
+            <p>
+               <pb facs="tcp:57300:2"/>
+               <figure>
+                  <head>TITUS OATES. D. D.</head>
+               </figure>
+            </p>
             <figure>
                <head>Cap<hi rend="sup">t</hi>. WILLIAM. BEDLOE.</head>
             </figure>
